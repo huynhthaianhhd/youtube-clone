@@ -1,0 +1,23 @@
+.videoRow {
+  display: flex;
+  align-items: center;
+  max-width: 862px;
+  cursor: pointer;
+}
+.videoRow > img {
+  width: 246px ;
+  height: 138px ;
+  border: solid 1px black;
+}
+.videoRow-text {
+  margin-left: 14px;
+}
+.videoRow-description {
+  margin-top: 20px;
+  font-size: 12px;
+  color: #606060;
+}
+.videoRow-headline {
+  font-size: 12px;
+  color: #606060;
+}
